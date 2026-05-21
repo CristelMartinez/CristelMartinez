@@ -1,11 +1,11 @@
-## Hi there 👋 I'm Cristel
+# Hi there I'm Cristel
 
-### 💻 Systems Engineer
-### 🚀 APIs, sistems and web proyects developer
-### ⏳ Exploring Python for automation and AI projects
-### Full stack developer(junior)
+## 💻 Systems Engineer
+## 🚀 APIs, sistems and web proyects developer
+## ⏳ Exploring Python for automation and AI projects
+## 💡 Full stack developer(junior)
 
-## ⚒️ Stack
+## ⚒️📦 Stack
 ### Languajes
 #### Backend
 - JavaScript
@@ -20,7 +20,6 @@
 - React
 - Tailwind CSS
 - Prisma
-
 ### Runtime
 - Node.js
 ### Databases
