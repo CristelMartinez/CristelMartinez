@@ -1,9 +1,9 @@
 # Hi there I'm Cristel
 
-## 💻 Systems Engineer
-## 🚀 APIs, sistems and web proyects developer
-## ⏳ Exploring Python for automation and AI projects
-## 💡 Full stack developer(junior)
+#### 💻 Systems Engineer
+#### 🚀 APIs, sistems and web proyects developer
+#### ⏳ Exploring Python for automation and AI projects
+#### 💡 Full stack developer(junior)
 
 ## ⚒️📦 Stack
 ### Languajes
