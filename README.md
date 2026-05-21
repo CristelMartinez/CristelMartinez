@@ -1,16 +1,48 @@
-## Hi there 👋
+## Hi there 👋 I'm Cristel
+
+### 💻 Systems Engineer
+### 🚀 APIs, sistems and web proyects developer
+### ⏳ Exploring Python for automation and AI projects
+### Full stack developer(junior)
+
+## ⚒️ Stack
+### Languajes
+#### Backend
+- JavaScript
+- Python
+- Java
+#### Frontend
+- JavaScript
+- HTML
+- CSS
+### Frameworks & Libraries
+- Express.js
+- React
+- Tailwind CSS
+- Prisma
+
+### Runtime
+- Node.js
+### Databases
+- MongoDB
+- PostgreSQL
+- MySQL
+### Tools
+- Docker
+- Git
+## 🤖 Interests
+- Python Automation
+- Artificial Intelligence
+- Backend Development
+- Cybersecurity
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CristelMartinez&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristelMartinez&layout=compact&theme=tokyonight)
+
 
 <!--
-**CristelMartinez/CristelMartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+V1
 -->
